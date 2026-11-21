@@ -1,0 +1,4 @@
+def vowel_count(word):
+	vowel_count = 0
+	if 'a' in word or 'A' in word or 'e' in word or 'E' in word or 'i' in word or 'I' in word or 'o' in word or 'O' in word or 'u' in word or 'U' in word or
+	
